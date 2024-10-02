@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",           
+    "module": "esnext",        
+    "baseUrl": ".",
+    "moduleResolution": "node", 
+    "esModuleInterop": true,     
+    "checkJs": true
+  }
+}
